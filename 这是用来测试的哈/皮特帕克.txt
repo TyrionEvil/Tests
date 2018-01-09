@@ -1,4 +1,4 @@
  Spideman.
 
  git 简易操作
- http://rogerdudler.github.io/git-guide/index.zh.html
+ http://rogerdudler.github.io/git-guide/index.zh.html 在gitHub上改变不pull本地，然后测试冲突。
